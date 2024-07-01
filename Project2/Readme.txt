@@ -9,7 +9,6 @@ The project contains the following files:
 - `EDA_and_Regression.py`: This script includes EDA, linear regression, and logistic regression applied to a study performance dataset.
 - `Algorithms_ML.ipynb`: This Jupyter notebook demonstrates linear regression and logistic regression on a salary dataset.
 - `Salary_Data.csv`: The dataset used in the `Algorithms_ML.ipynb` notebook.
-- `study_performance.csv`: The dataset used in the `EDA_and_Regression.py` script.
 - `requirements.txt`: A list of all dependencies required to run the project.
 
 ## Dependencies
